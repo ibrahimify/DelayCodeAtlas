@@ -1,17 +1,30 @@
 # Wizz Air Delay Code Atlas
 
-A fast, client-side search tool for IATA delay codes, built for internal use 
-at Wizz Air. Type any keyword, code, or description to filter and explore 
-delay codes instantly - no backend, no dependencies.
+A lightweight, client-side reference tool for IATA delay codes built during my 
+time as a Security and Central Services Trainee at Wizz Air. Designed to help 
+operations staff search, filter, and understand delay codes instantly, no 
+backend, no dependencies, no friction.
 
 ## Live Site
 
-https://ibrahimify.github.io/WIZZ_DelayCodeAtlas/
+**[Wizz Air Delay Code Atlas](https://ibrahimify.github.io/WIZZ_DelayCodeAtlas/)**
+
+## Why I Built This
+
+Working with EU261 flight disruption data and delay classification workflows 
+daily, I noticed there was no fast, searchable reference for IATA delay codes 
+that fit an operational context. So I built one.
+
+## Features
+
+- Instant search across all IATA delay codes by code, keyword, or description
+- Clean, minimal interface designed for quick operational lookups
+- Fully client-side, works offline, no server required
 
 ## Built By
 
-Muhammad Ibrahim Shoeb
+**Muhammad Ibrahim Shoeb**
 Security and Central Services Trainee, Wizz Air
-BSc Computer Science and Engineering, BME Budapest
+BSc Computer Science and Engineering, Budapest University of Technology and Economics
 
-github.com/ibrahimify
+[ibrahimify.dev](https://ibrahimify.dev) · [github.com/ibrahimify](https://github.com/ibrahimify) · [linkedin.com/in/ibrahimify](https://linkedin.com/in/ibrahimify)
