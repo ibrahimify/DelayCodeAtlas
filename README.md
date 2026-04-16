@@ -7,13 +7,15 @@ backend, no dependencies, no friction.
 
 ## Live Site
 
-**[Wizz Air Delay Code Atlas](https://ibrahimify.github.io/WIZZ_DelayCodeAtlas/)**
+>**[Wizz Air Delay Code Atlas - Open Tool ➔](https://ibrahimify.github.io/WIZZ_DelayCodeAtlas/)**
+
+![Last Updated](https://img.shields.io/github/last-commit/ibrahimify/WIZZ_DelayCodeAtlas?label=Last+updated)
 
 ## Why I Built This
 
 Working with EU261 flight disruption data and delay classification workflows 
 daily, I noticed there was no fast, searchable reference for IATA delay codes 
-that fit an operational context. So I built one.
+that fit an operational context. Also, I was bored one afternoon. So I built one.
 
 ## Features
 
@@ -22,9 +24,12 @@ that fit an operational context. So I built one.
 - Fully client-side, works offline, no server required
 
 ## Built By
+<div align="left">
 
-**Muhammad Ibrahim Shoeb**
-Security and Central Services Trainee, Wizz Air
+**Muhammad Ibrahim Shoeb**  
+Security and Central Services Trainee at Wizz Air  
 BSc Computer Science and Engineering, Budapest University of Technology and Economics
 
-[ibrahimify.dev](https://ibrahimify.dev) · [github.com/ibrahimify](https://github.com/ibrahimify) · [linkedin.com/in/ibrahimify](https://linkedin.com/in/ibrahimify)
+[Portfolio](https://ibrahimify.dev) · [GitHub](https://github.com/ibrahimify) · [LinkedIn](https://linkedin.com/in/ibrahimify)
+
+</div>
