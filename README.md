@@ -7,7 +7,7 @@ backend, no dependencies, no friction.
 
 ## Live Site
 
->**[Wizz Air Delay Code Atlas - Open Tool ➡](https://ibrahimify.github.io/WIZZ_DelayCodeAtlas/)**
+>**[Wizz Air Delay Code Atlas - Open Tool ⟶](https://ibrahimify.github.io/WIZZ_DelayCodeAtlas/)**
 
 ![Last Updated](https://img.shields.io/github/last-commit/ibrahimify/WIZZ_DelayCodeAtlas?label=Last+updated)
 
