@@ -9,7 +9,7 @@ backend, no dependencies, no friction.
 
 >**[Wizz Air Delay Code Atlas - Open Tool ⟶](https://ibrahimify.github.io/DelayCodeAtlas/)**
 
-![Last Updated](https://img.shields.io/github/last-commit/ibrahimify/DelayCodeAtlas?label=Last+updated)
+[![Last Updated](https://img.shields.io/github/last-commit/ibrahimify/DelayCodeAtlas/main?label=Last%20Updated)](https://github.com/ibrahimify/DelayCodeAtlas/commits/main)
 
 ## Why I Built This
 
